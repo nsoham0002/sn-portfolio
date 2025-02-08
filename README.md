@@ -47,6 +47,6 @@ This project is open-source and available under the **MIT License**.
 ## Contact
 For any inquiries, feel free to connect via:
 - Email: nsohamm0002@gmail.com
-- LinkedIn: [your-profile](https://www.linkedin.com/in/soham-naik-a8bb1a295/)
+- LinkedIn: [Soham-Naik](https://www.linkedin.com/in/soham-naik-a8bb1a295/)
 ```
 
