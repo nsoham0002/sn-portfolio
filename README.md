@@ -1,6 +1,16 @@
 
 # Personal Portfolio Website
 
+## INTERN ID: CT08OYC  
+## DOMAIN NAME: FRONT END DEVELOPMENT  
+## DURATION: 4 WEEKS  
+## MENTOR: NEELA SANTOSH KUMAR 
+
+#OUTPUT
+
+<img src="https://raw.githubusercontent.com/nsoham0002/sn-portfolio/main/assets/2025-02-21%20(5).png" width="500">
+
+
 ## Overview
 This project is a **responsive single-page portfolio website** designed using **HTML, CSS, and JavaScript** to showcase a developer's projects, skills, and contact information. The website features smooth navigation and an aesthetically pleasing design to create a strong online presence.
 
