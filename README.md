@@ -6,7 +6,7 @@
 ## DURATION: 4 WEEKS  
 ## MENTOR: NEELA SANTOSH KUMAR 
 
-#OUTPUT
+##OUTPUT
 
 <img src="https://raw.githubusercontent.com/nsoham0002/sn-portfolio/main/assets/2025-02-21%20(5).png" width="500">
 
